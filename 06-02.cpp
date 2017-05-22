@@ -1,15 +1,17 @@
+/* CEK BILANGAN BINER */
+
 #include <iostream>
 using namespace std;
 
-void Apa(int n){
+void Biner(int n){
     if(n>0){
-        Apa(n/2);
+        Biner(n/2);
         cout<<(n%2);
     }
 }
 
 int main() {
-    Apa(13);
+    Biner(13);
     
     return 0;
 }
