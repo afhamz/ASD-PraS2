@@ -1,2 +1,3 @@
-# ASD-PraS2
-koleksi source code ASD Pra-s2 kelas B
+Koleksi source code kuliah ASD Pra-S2 Kelas B
+
+Contributor : Thesa Adi Saputra
